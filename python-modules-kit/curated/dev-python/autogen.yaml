@@ -2555,6 +2555,7 @@ ansible_deps_rule:
           S="${WORKDIR}/PyNaCl-${PV}"
         rdepend: |
           dev-libs/libsodium
+    - propcache
 
 yq_deps_rule:
   generator: pypi-compat-1
