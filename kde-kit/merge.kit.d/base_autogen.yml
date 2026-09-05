@@ -43,6 +43,8 @@ target:
     - pkg: media-libs/phonon-vlc
     - pkg: media-libs/pulseaudio-qt
 
+    - pkg: media-sound/elisa
+
     - pkg: net-libs/libktorrent
     - pkg: net-libs/kdsoap
     - pkg: net-libs/kdsoap-ws-discovery-client
